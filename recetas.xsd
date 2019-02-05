@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="Recetas">
+    <xs:complexType>
+      <xs:sequence maxOccurs="unbounded">
+        <xs:element ref="plato"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="plato">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:sequence minOccurs="0">
+          <xs:element ref="Categoria"/>
+        </xs:sequence>
+        <xs:element ref="Nombre"/>
+        <xs:element ref="Ingredientes"/>
+        <xs:element ref="Tiempo_Preparacion"/>
+        <xs:element ref="Descripcion"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Categoria" type="xs:string"/>
+
+  <xs:element name="Nombre" type="xs:string"/>
+
+  <xs:element name="Ingredientes" type="xs:string"/>
+
+  <xs:element name="Tiempo_Preparacion" type="xs:string"/>
+
+  <xs:element name="Descripcion" type="xs:string"/>
+
+</xs:schema>

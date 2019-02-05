@@ -1,0 +1,7 @@
+<!ELEMENT Recetas (plato+)>
+<!ELEMENT plato (Categoria?, Nombre, Ingredientes, Tiempo_Preparacion, Descripcion)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Ingredientes (#PCDATA)>
+<!ELEMENT Tiempo_Preparacion (#PCDATA)>
+<!ELEMENT Descripcion (#PCDATA)>
+<!ELEMENT Categoria (#PCDATA)>

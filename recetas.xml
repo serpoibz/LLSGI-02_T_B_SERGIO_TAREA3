@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Recetas SYSTEM "recetas.dtd">
+<Recetas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="recetas.xsd">
+<plato>
+<Nombre>Almejas Salteadas</Nombre>
+<Ingredientes>1 kg. de almejas, 1 limon, 1 cucharada de perejil picado y 1 pizca de sal.</Ingredientes>
+<Tiempo_Preparacion>15 min.</Tiempo_Preparacion>
+<Descripcion>Póngase las almejas a fuego fuerte y cuando se abran rocíese con el limón y se espolvorean con perejil picado.</Descripcion>
+</plato>
+<plato>
+<Categoria>Pescados y Mariscos</Categoria>
+<Nombre>Pulpo a la vinagreta</Nombre>
+<Ingredientes>50 ccs de aceite, 1 cebolla, 1 pimiento rojo, 1 pimiento verde, 1 kg. de pulpo, 1 pizca de sal y 25 ccs de vinagre.</Ingredientes>
+<Tiempo_Preparacion>25 min.</Tiempo_Preparacion>
+<Descripcion>Se cuece el pulpo congelado en la olla rápida por espacio de 20 minutos. Se saca, se deja enfriar y se trocea y se le añade la vinagreta que  habremos  preparado  con  el  resto  de  los  ingredientes finamente picados y mezclados. </Descripcion>
+</plato>
+<plato>
+<Categoria>Pescados y Mariscos</Categoria>
+<Nombre>Almejas a la andaluza</Nombre>
+<Ingredientes>20 ccs de aceite, 1 diente de ajo, 1 kg. de almejas, 2 cebollas picadas, 15 gr, de pan rallado, 1 cucharada de perejil picado, 1 cucharadita de pimetón y 1 pizca de sal.</Ingredientes>
+<Tiempo_Preparacion>25 min.</Tiempo_Preparacion>
+<Descripcion>Se cuece la cebolla y el ajo bien picado todo en aceite con una pizca  de  sal,  cuando  la  cebolla  esté  blanda,  se  añade  las almejas, más el perejil, el pan rallado y el pimentón. Se sigue cociendo a fuego suave. Si es necesario se agrega un poco de agua. Cuando las almejas estén abiertas y la cebolla cocida se sirven. </Descripcion>
+</plato>
+<plato>
+<Categoria>Carnes</Categoria>
+<Nombre>Filetes a la napolitana</Nombre>
+<Ingredientes>4 cucharadas de aceite, 4 filetes de ternera, 150 gr. de queso rallado parmesano y 250 gr. de salsa de tomate.</Ingredientes>
+<Tiempo_Preparacion>15 min.</Tiempo_Preparacion>
+<Descripcion>Se fríen los filetes. Se ponen en una bandeja rociando el tomate y se espolvorea el queso rallado. Se gratinan unos minutos y se sirve.</Descripcion>
+</plato>
+<plato>
+<Categoria>Carnes</Categoria>
+<Nombre>Filete de ternera a la milanesa</Nombre>
+<Ingredientes>180 ccs. de aceite, 4 filetes de ternera o pollo, 2 huevos, 80gr. de pan rallado, 1 ramita de perefil, 1 pizca de pimienta y 1 pizca de sal</Ingredientes>
+<Tiempo_Preparacion>20 min.</Tiempo_Preparacion>
+<Descripcion>Calentar en una sartén aceite. Condimentar los filetes con sal, pimienta y perejil. Se pasa por el huevo y el pan rallado. Cuando se doren se retiran.</Descripcion>
+</plato>
+<plato>
+<Categoria>Ensaladas y Verduras</Categoria>
+<Nombre>Ensalada con nueces</Nombre>
+<Ingredientes>2 cucharadas de aceite de oliva, 1 cucharada de azúcar, 220 gr. de lechuga, 50 gr. de nueces picadas, 1 pizca de sal y 1 cucharada de vinagre.</Ingredientes>
+<Tiempo_Preparacion>10  min.</Tiempo_Preparacion>
+<Descripcion>En  un  envase,  coloca  la  lechuga  picada  en  trozos  pequeños, añades el aceite, el vinagre, la sal, el azúcar y por último las nueces trituradas, revuelves todo muy bién. </Descripcion>
+</plato>
+<plato>
+<Categoria>Ensaladas y Verduras</Categoria>
+<Nombre>Champiñones al ajillo</Nombre>
+<Ingredientes>3 cucharadas de aceite, 4 dientes de ajo, 500 gr. de champiñones, 2 cucharadas deperejil picado y 1 pizca de sal.</Ingredientes>
+<Tiempo_Preparacion>15 min.</Tiempo_Preparacion>
+<Descripcion>Limpiar bien los champiñones, cortarlos en láminas y salarlos. En  una  sartén  con  aceite,  poner  a  freír  los  ajos  cortados  a láminas y cuando empiecen a tomar ligeramente color dorado, añadir los champiñones. Darles unas vueltas y agregar abundante perejil picado. Seguir  rehogándolos  hasta  que  los  champiñones  estén  en  su punto.</Descripcion>
+</plato>
+<plato>
+<Categoria>Ensaladas y Verduras</Categoria>
+<Nombre>Ensalada con nueces</Nombre>
+<Ingredientes>2 cucharadas de aceite de oliva, 1 cucharada de azúcar, 220 gr. de lechuga, 50 gr. de nueces picadas, 1 pizca de sal y 1 cucharada de vinagre.</Ingredientes>
+<Tiempo_Preparacion>10  min.</Tiempo_Preparacion>
+<Descripcion>En un envase, coloca la lechuga picada en trozos pequeños, añades el aceite, el vinagre, la sal, el azúcar y por último las nueces trituradas, revuelves todo muy bién. </Descripcion>
+</plato>
+<plato>
+<Categoria>Ensaladas y Verduras</Categoria>
+<Nombre>Zanahorias a la crema</Nombre>
+<Ingredientes> 50 gr. de mantequilla, 250 gr. de nata liquida, 1 puerro, 1 pizca de sal y 1 kg de zanahorias.</Ingredientes>
+<Tiempo_Preparacion>25 min.</Tiempo_Preparacion>
+<Descripcion>Se pelan las zanahorias y el puerro, se lavan y se cortan en rodajitas. Se hierven en agua y sal. Se escurren y se pasan por la batidora y si es necesario por el chino para que quede mas fino. Se añade la nata y la mantequilla hasta que quede una suave crema. Se prueba de sal y se sirve caliente. </Descripcion>
+</plato>
+<plato>
+<Categoria>Ensaladas y Verduras</Categoria>
+<Nombre>Patatas al vapor</Nombre>
+<Ingredientes>750 gr. de patatas, 1 ramita de perejil y 1 pizca de sal.</Ingredientes>
+<Tiempo_Preparacion> 20 min.</Tiempo_Preparacion>
+<Descripcion>Se ponen las patatas peladas y cortadas en dados grandes en una  cesta  dentro  de  una  cazuela  y  se  dejan  hacer  hasta  que estén tiernas. Se espolvorea con perejil y sal. Se pueden acompañar con un poco de mantequilla.</Descripcion>
+</plato>
+<plato>
+<Categoria>Ensaladas y Verduras</Categoria>
+<Nombre>Ensalada de atún</Nombre>
+<Ingredientes>500 gr- de atún, 1 calabacín, 1 cebolla, 3 huevos cocidos, 100 gr. de maíz, 1 pizca de pimienta, 1 pimiento rojo, 1 pimiento verde, 1 pizca de sal, 200 ccs de tomate frito y 1 cucharadita de vinagre.</Ingredientes>
+<Tiempo_Preparacion> 30 min.</Tiempo_Preparacion>
+<Descripcion>Se sofríe la verdura con el aceite muy caliente, un a vez frito se le añade el atún el tomate y se sofríe unos 5 minutos más. Cuando ya esta frito todo se le añade el huevo cocido y el maíz y la cucharadita de vinagre. Se coge un molde y se pone en una fuente con lechuga alrededor y pan tostado para acompañar. Se recomienda comerla fría o caliente. </Descripcion></plato>
+<plato>
+<Categoria>Sopas y Cremas</Categoria>
+<Nombre>Salsa de yogur</Nombre>
+<Ingredientes>1 yogur natural y 2 cucharadas de sopa de puerros liofilizada</Ingredientes>
+<Tiempo_Preparacion>10 min.</Tiempo_Preparacion>
+<Descripcion>Se mezclan muy bien los ingredientes. Sirve para aperitivos.</Descripcion>
+</plato>
+<plato>
+<Categoria>Sopas y Cremas</Categoria>
+<Nombre>Ali oli con huevo</Nombre>
+<Ingredientes>200 ccs. de aceite, 2 dientes de ajo, 1 huevo, 1 chorrito de vinagre y 1 pizca de sal.</Ingredientes>
+<Tiempo_Preparacion>10 min.</Tiempo_Preparacion>
+<Descripcion>Unir en la batidora poner los ajos picaditos, el huevo, la sal, el vinagre y el aceite por éste orden.</Descripcion>
+</plato>
+<plato>
+<Categoria>Sopas y Cremas</Categoria>
+<Nombre>Crema de calabacín</Nombre>
+<Ingredientes>1 kg. de calabacines, 1 caldo, 1 cucharada de mantequilla, 1 puerro o cebolla y 4 quesitos en porciones.</Ingredientes>
+<Tiempo_Preparacion>15 min.</Tiempo_Preparacion>
+<Descripcion>Se  pelan  los  calabacines  y  se  cuecen  con  los  demás ingredientes. Una vez cocidos se pasan por la batidora. Se sirve frío. </Descripcion>
+</plato>
+<plato>
+<Categoria>Sopas y Cremas</Categoria>
+<Nombre>Crema de champiñones</Nombre>
+<Ingredientes>750 ccs. de caldo, 1 cebollita muy picada, 500 gr. de champiñones, 75 gr. de harina, 750 ccs. de leche y 70 gr. de mantequilla.</Ingredientes>
+<Tiempo_Preparacion></Tiempo_Preparacion>
+<Descripcion>En  una  cacerola  se  pone  la  mantequilla  rehogando  en   ella  la cebolla, la harina y los champiñones. Guardando algunas cabecitas pequeñas. Se agrega la leche y el caldo caliente. Se une todo bien y se pasa por la trituradora. Se pone en la sopera. Se agregan las cabecitas de champiñón se termina de ligar con un poco de mantequilla.</Descripcion>
+</plato>
+<plato>
+<Categoria>Sopas y Cremas</Categoria>
+<Nombre>Salsa de patata</Nombre>
+<Ingredientes> 100 gr. de aceite, 50 ccs de agua, 1 huevo (solo la yema), 1 patata hervida, 1 cucharada de zumo de limón y 1 pizca de sal.</Ingredientes>
+<Tiempo_Preparacion>30 min.</Tiempo_Preparacion>
+<Descripcion>En el vaso de la batidora se mezclan todos los ingredientes, por este orden, el aceite, la patata hervida, el zumo de limón, la yema de huevo, la sal y el agua, hasta obtener un puré fino y todo bien unido. Es una salsa muy rica para acompañar carnes o pescados. De forma optativa, se le puede añadir un poco de perejil para darle más color.</Descripcion>
+</plato>
+<plato>
+<Categoria>Pastas y Arroces</Categoria>
+<Nombre>Tallarines con queso y mantequilla</Nombre>
+<Ingredientes>50 gr. de mantequilla, 350 gr. de nouilles o tallarines, 50 gr. de queso y 1 pizca de sal.</Ingredientes>
+<Tiempo_Preparacion>20</Tiempo_Preparacion>
+<Descripcion>Se cuecen en abundante agua los nouilles unos 15 o 20 minutos y se escurren. En una cazuela se pone la mantequilla y se calienta. Cuando está líquida se echan los nouilles y se embadurnan en la mantequilla, echándoles el queso por encima. Se sirve.</Descripcion>
+</plato>
+<plato>
+<Categoria>Pastas y Arroces</Categoria>
+<Nombre>Macarrones con chorizo</Nombre>
+<Ingredientes>20 ccs. de aceite, 2 chorizos para guisar, 400 gr. de macarrones, 15 gr. de mantequilla, 1 pizca de sal y 200 ccs de tomate frio.</Ingredientes>
+<Tiempo_Preparacion>25 min.</Tiempo_Preparacion>
+<Descripcion>Cocer en abundante agua salada los macarrones. Después de escurridos, mezclarlos con el tomate frito. Untar una fuente apta para horno con mantequilla y añadir los macarrones. Aparte, cortar el chorizo en rodajitas y sofreírlo en aceite. Esparcir el chorizo por encima de los macarrones sin mezclarlo</Descripcion>
+</plato>
+<plato>
+<Categoria>Pasta y Arroces</Categoria>
+<Nombre>Risotto sencillo</Nombre>
+<Ingredientes>50 ccs. de aceite, 300 gr. de arroz, 3 hebras de azafrán, 1 litro de caldo, 25 gr. de cebolla, 1 hoja de laurel, 1 pimiento rojo, 80 gr. de queso rallado, 1 pizca de sal y 1 tomate</Ingredientes>
+<Tiempo_Preparacion>20 min.</Tiempo_Preparacion>
+<Descripcion>Rehogar en el aceite la cebolla y el pimiento y el tomate pelado y todo picadito. Añadir el azafrán y el arroz. Incorporar el caldo. Cocer durante unos 20 minutos con el laurel. Rociar con el queso rallado, antes de servir. </Descripcion>
+</plato>
+<plato>
+<Categoria>Postres</Categoria>
+<Nombre>Leche de avena</Nombre>
+<Ingredientes>4 tazas de agua fría, 2 tazas de avena cocida, 1 cucharita de vainilla, 1 pizca de sal y 1cucharada de miel.</Ingredientes>
+<Tiempo_Preparacion>12 min.</Tiempo_Preparacion>
+<Descripcion>Mezclar todos los ingredientes en una licuadora o batidora, durante 2 o tres minutos  Colar la mezcla y poner lo en el refrigerador  Batir bien, antes de usarse. </Descripcion>
+</plato>
+<plato>
+<Categoria>Postres</Categoria>
+<Nombre>Granizado de fresa</Nombre>
+<Ingredientes>250ccs. de agua, 250gr. de azucar, 500 gr. de fresas, hielo picado y 1 limón.</Ingredientes>
+<Tiempo_Preparacion>15 min.</Tiempo_Preparacion>
+<Descripcion>Se limpian y se lavan las fresas. Se pasan por la batidora junto con el azúcar, el agua y el zumo del limón.Se distribuye hielo picado en copas o vasos altos se vierte en ellos el preparado de fresas y se sirve de inmediato.</Descripcion>
+</plato>
+<plato>
+<Categoria>Postres</Categoria>
+<Nombre>Mousse de limón</Nombre>
+<Ingredientes>250 ccs. de leche condensada, 50 gr. de nata liquida, 250 ccs de zumo de limón.</Ingredientes>
+<Tiempo_Preparacion>15 min.</Tiempo_Preparacion>
+<Descripcion>Se mezcla muy bien la leche condensada y el zumo de limón. Se le agrega medio kilo de nata líquida. Se mete en la nevera dos o tres horas. </Descripcion>
+</plato>
+</Recetas>
